@@ -45,4 +45,3 @@ A simple Node.js application for uploading, storing, and viewing images in an en
 
 - Uploaded images are encrypted and stored in `data.json`.
 - Encryption keys are stored in `key.json`.
-- No copyright
